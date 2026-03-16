@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # 📊 Simulador FIC — Fondo de Inversión Colectiva
 
