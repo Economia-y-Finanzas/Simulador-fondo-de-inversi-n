@@ -1,5 +1,5 @@
 
-# 📊 Simulador FIC — Fondo de Inversión Colectiva
+# Simulador FIC — Fondo de Inversión Colectiva
 
 > **Proyecto académico-práctico** desarrollado en el marco de la carrera
 > de **Economía**, que replica la operación de un Fondo de Inversión
@@ -9,7 +9,7 @@
 
 ------------------------------------------------------------------------
 
-## 🗂️ Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```         
 simulador-fic/
@@ -21,7 +21,7 @@ simulador-fic/
 
 ------------------------------------------------------------------------
 
-## 🧠 Contexto Económico
+##  Contexto Económico
 
 Un **Fondo de Inversión Colectiva (FIC)** es un vehículo de inversión
 regulado (Decreto 1242 de 2013, Colombia) en el que varios
@@ -43,7 +43,7 @@ de benchmark**: comparación del VU frente al índice COLCAP
 
 ------------------------------------------------------------------------
 
-## 📋 Descripción de las Hojas del Simulador (`simulador.xlsx`)
+##  Descripción de las Hojas del Simulador (`simulador.xlsx`)
 
 ### 1. `FVA` — Panel de Control Principal
 
@@ -275,7 +275,7 @@ ggplot2      # Visualización
 
 ------------------------------------------------------------------------
 
-## 🚀 Cómo Usar el Proyecto
+##  Cómo Usar el Proyecto
 
 ### Excel / Google Sheets
 
@@ -304,7 +304,7 @@ datos <- read.csv("eco2.csv")
 
 ------------------------------------------------------------------------
 
-## 📐 Conceptos Económicos Aplicados
+##  Conceptos Económicos Aplicados
 
 | Concepto | Aplicación en el proyecto |
 |----|----|
@@ -317,7 +317,7 @@ datos <- read.csv("eco2.csv")
 
 ------------------------------------------------------------------------
 
-## ⚠️ Advertencia
+##  Advertencia
 
 Este proyecto es de carácter **académico y demostrativo**. Los nombres
 de activos e inversionistas son ficticios. No constituye asesoría
@@ -325,7 +325,7 @@ financiera ni oferta de inversión.
 
 ------------------------------------------------------------------------
 
-## 👤 Autor
+##  Autores
 
 Emmanuel Pérez López - Jose Alejandro Salgado
 Estudiantes de **Economía** — Proyecto de gestión de portafolios e
