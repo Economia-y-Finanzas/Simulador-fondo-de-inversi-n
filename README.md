@@ -212,7 +212,7 @@ modelo de hoja de cálculo y el modelo econométrico.
 
 ------------------------------------------------------------------------
 
-## 📉 Modelo Econométrico (`ARIMAGARCH.R`)
+## Modelo Econométrico (`ARIMAGARCH.R`)
 
 ### Metodología
 
